@@ -1,0 +1,28 @@
+Across my time as a software dev, I have worked on a variety of projects. However, I rarely have set projects up beyond my own. This is an exercise of how to approach this as someone with very little knowledge.
+
+1. Initial Decisions
+WHat's it take to get started on a software project? There's several decisions right at the front. 1) Source Control 2) Tech Stack 3) Local development environment
+
+Additionally, I'd like to track effort and time spent on various work being performed.
+
+Some values I want to prioritize: the content I'm using needs to be free. Additionally, I want to prefer speed.
+
+Setting up a repo in github and I immediately run into license questions. Github points toward https://choosealicense.com/. Going with MIT. Simple. Permissive.
+
+Regarding tech stack. I want to start with vuejs. I'm familiar with it and if I'm prioritizing speed, then having a baseline will help greatly.
+
+Full Stack: DB, Server Management, Backend (scripting).
+
+Regarding backend, I think nodejs (look at express for a microframeworks) However, djano may be a good opportunity for python. Looking up express
+
+Going to start by setting up vuejs.https://vuejs.org/guide/quick-start.html#creating-a-vue-application 
+1) Install Node.js
+  * Installed by dnf
+2) Ran through the vuejs scaffolding tool
+PEVN Stack: Postgresql, express, vuejs, and nodejs.
+Vuejs, expressjs
+9:00 started
+9:24 Blog and research (tech stack)
+9:31 Research license
+10:04 Research (tech stack)
+10:xx Research (Dev Env) 
