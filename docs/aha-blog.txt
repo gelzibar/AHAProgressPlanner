@@ -29,3 +29,4 @@ Vuejs, expressjs
 10:04 Research (tech stack)
 10:41 Install Nodejs. Install vuejs. commit to github 
 11:12 Exploring project in vscode
+11:50 Adding vues/views. Adding nav bar. routing. css style
