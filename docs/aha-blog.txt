@@ -1,7 +1,8 @@
+11/01
 Across my time as a software dev, I have worked on a variety of projects. However, I rarely have set projects up beyond my own. This is an exercise of how to approach this as someone with very little knowledge.
 
 1. Initial Decisions
-WHat's it take to get started on a software project? There's several decisions right at the front. 1) Source Control 2) Tech Stack 3) Local development environment
+What's it take to get started on a software project? There's several decisions right at the front. 1) Source Control 2) Tech Stack 3) Local development environment
 
 Additionally, I'd like to track effort and time spent on various work being performed.
 
@@ -13,9 +14,9 @@ Regarding tech stack. I want to start with vuejs. I'm familiar with it and if I'
 
 Full Stack: DB, Server Management, Backend (scripting).
 
-Regarding backend, I think nodejs (look at express for a microframeworks) However, djano may be a good opportunity for python. Looking up express
+Regarding backend, I think nodejs (look at express for a microframeworks) However, django may be a good opportunity for python. Looking up express
 
-Going to start by setting up vuejs.https://vuejs.org/guide/quick-start.html#creating-a-vue-application 
+Going to start by setting up vuejs. https://vuejs.org/guide/quick-start.html#creating-a-vue-application 
 1) Install Node.js
   * Installed by dnf
 2) Ran through the vuejs scaffolding tool
@@ -23,6 +24,31 @@ Going to start by setting up vuejs.https://vuejs.org/guide/quick-start.html#crea
 
 PEVN Stack: Postgresql, express, vuejs, and nodejs.
 Vuejs, expressjs
+
+11/02
+Comparing existing navbar with nav from https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+Reminded of vuetify and other frameworks on top of vuejs. Need to explore pros and cons. There are a lot of options, and after browsing around I chose PrimeVue
+
+Working through a getting started PrimeVue video, and trying to resolve errors within my App.Vue. Looking at typescript troubleshooting. Got the TS error correct and it fixed the PrimeVue stuff. I have a simple web page with input box, Button, and Toast
+
+11/06
+Harper's bday at deep blue. Made a small bit of progress while here. One of the squeezes I'm feeling is a need to template out the functional skeleton of a website versus having to write these unknowns in vuejs.
+
+Reading through reddit posts. I think this is an opportunity to define requirements and then work on 
+
+11/08/22 
+Getting started tonight and after the brief time at Harper's bday and lots of idle time. I believe I have an initial idea. I think I'm going to work on applying an agile framework and attacking a very small portion of the total idea. Get it online quickly*. I should do some additional reading surrounding what agile project setup looks like, and how to initially approach it. The idea bouncing around in my head is to just stand up the traits page. Doing so would provide a relatively simple assignment that is relatively straight-forward and bound. Spitballing- I'd need a trait browser. The browser would need a variety of filters or search strings. Some way to store the browser image and icon image, a title, a description, and a point cost. I would need some way to track points and active effects and ways to apply and remove those to the load out. Finally, I would need some way to save and load trait loadouts.
+
+This would be a good opportunity to get the basic layout and styling of the website without an enormous load of design and backend work immediately piling on. I imagine the traits would be stored in a db and that would provide an opportunity to establish the backend and db
+
+Beyond emulating the hunt UI, this could be an opportunity to add a dbd style perk rating system. Depending on velocity, a major patch could be an opportunity to reset voting (if the website had any velocity.
+
+I'm going to start by pulling up my history on sdlc and honing in on agile. Reading some fundamentals on agile and the frameworks built atop it- Scrum and Kanban. I'd love a project management example. I'm looking at what github provides as part of the package. Github allows the creation of issues and projects. It appears simplified compared to jira, but seems like it should cover my bases.
+
+I like seeing that agile methologies mentions that you're really on planning for work within the sprint. That seems like how I should be operating for this. I will look up other game appendices style websites for inspiration.
+11/08
+9:00 started
+11/01
 9:00 started
 9:24 Blog and research (tech stack)
 9:31 Research license
@@ -30,3 +56,7 @@ Vuejs, expressjs
 10:41 Install Nodejs. Install vuejs. commit to github 
 11:12 Exploring project in vscode
 11:50 Adding vues/views. Adding nav bar. routing. css style
+11/02
+6:30 start
+6:45 Playing with NavigationBar
+7:45 Dinner, Research vue ui libraries, install and get started of primevue

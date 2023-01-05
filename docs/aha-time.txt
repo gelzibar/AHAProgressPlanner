@@ -1,0 +1,22 @@
+11/08
+9:00 started
+9:13 Blogging
+9:36 Research agile methodolgies
+9:41 break
+9:50 Research agile methodolgies
+9:57 Research github
+10:10 Research requirements and website basics
+10:23 Writing user stories for traits page
+
+11/01
+9:00 started
+9:24 Blog and research (tech stack)
+9:31 Research license
+10:04 Research (tech stack)
+10:41 Install Nodejs. Install vuejs. commit to github 
+11:12 Exploring project in vscode
+11:50 Adding vues/views. Adding nav bar. routing. css style
+11/02
+6:30 start
+6:45 Playing with NavigationBar
+7:45 Dinner, Research vue ui libraries, install and get started of primevue

@@ -1,16 +1,31 @@
 <template>
-    <div>
-        <nav>
-        <RouterLink to="/">Lobby</RouterLink>
-        <RouterLink to="/about">Progress</RouterLink>
-        <RouterLink to="/arsenal">Roster</RouterLink>
-        <RouterLink to="/arsenal">Recruitment</RouterLink>
-        <RouterLink to="/arsenal">Store</RouterLink>
-        <RouterLink to="/arsenal">Arsenal</RouterLink>
-        <RouterLink to="/arsenal">Library</RouterLink>
-
-      </nav>
-    </div>
+  <div>
+    <nav>
+      <ul class="main-menu">
+        <li>
+          <RouterLink to="/">Lobby</RouterLink>
+        </li>
+        <li>
+          <RouterLink to="/about">Progress</RouterLink>
+        </li>
+        <li>
+          <RouterLink to="/arsenal">Roster</RouterLink>
+        </li>
+        <li>
+          <RouterLink to="/arsenal">Recruitment</RouterLink>
+        </li>
+        <li>
+          <RouterLink to="/arsenal">Store</RouterLink>
+        </li>
+        <li>
+          <RouterLink to="/arsenal">Arsenal</RouterLink>
+        </li>
+        <li>
+          <RouterLink to="/arsenal">Library</RouterLink>
+        </li>
+      </ul>
+    </nav>
+  </div>
 </template>
 
 <style scoped>
@@ -30,6 +45,7 @@ h3 {
 }
 
 @media (min-width: 1024px) {
+
   .greetings h1,
   .greetings h3 {
     text-align: left;

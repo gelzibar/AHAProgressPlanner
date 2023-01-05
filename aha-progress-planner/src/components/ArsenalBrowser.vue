@@ -1,7 +1,7 @@
 <template>
-    <div>
-        <h1>Arsenal Goes Here</h1>
-    </div>
+  <div>
+    <h1>Arsenal Goes Here</h1>
+  </div>
 </template>
 
 <style scoped>
